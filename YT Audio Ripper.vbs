@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "python ""P:\Personal Projects\Download Music\main.py""", 0, False
